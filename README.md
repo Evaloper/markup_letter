@@ -32,3 +32,7 @@
 #COOL LOOKING BOX
 - Hosted project: (https://evaloper.github.io/cool_looking_box/)
 - Repository: (https://github.com/Evaloper/cool_looking_box.git)
+
+#TYPESETTING A COMMUNITY HOMEPAGE
+- Hosted project: (https://evaloper.github.io/typesetting_a_homepage/)
+- Repository: (https://github.com/Evaloper/typesetting_a_homepage.git)
