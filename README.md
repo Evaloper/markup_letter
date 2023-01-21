@@ -1,7 +1,9 @@
-## HTML-Structuring the web
-A sample test for DYEN Assessment
+#A SAMPLE TEST FOR DYEN ASSESSMENT
+Developer mozilla
 
-# markup_letter
+# HTML-Structuring the web
+
+#MARKING UP A LETTER
 - Marking up a letter assessment hosted project: (https://evaloper.github.io/markup_letter/)
 - Marking up a letter assessment repository: (https://github.com/Evaloper/markup_letter.git)
 
