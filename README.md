@@ -1,19 +1,34 @@
 #A SAMPLE TEST FOR DYEN ASSESSMENT
-Developer mozilla
 
 # HTML-Structuring the web
 
 #MARKING UP A LETTER
-- Marking up a letter assessment hosted project: (https://evaloper.github.io/markup_letter/)
+- Hosted project: (https://evaloper.github.io/markup_letter/)
 - Marking up a letter assessment repository: (https://github.com/Evaloper/markup_letter.git)
 
-# Structuring a page of content
-- Structuring a page of content hosted project: (https://evaloper.github.io/assets/)
-- Structuring a page of content repository: (https://github.com/Evaloper/assets.git)
+#STRUCURING A PAGE OF CONTENT
+- Hosted project: (https://evaloper.github.io/assets/)
+- Repository: (https://github.com/Evaloper/assets.git)
 
-# Mozilla Splash Page
-- Mozilla splash page hosted project: (https://evaloper.github.io/Mozilla_Splash_Page/)
-- Mozilla splash page repository: (https://github.com/Evaloper/Mozilla_Splash_Page.git)
+#MOZILLA SPLASH PAGE
+- Hosted project: (https://evaloper.github.io/Mozilla_Splash_Page/)
+- Repository: (https://github.com/Evaloper/Mozilla_Splash_Page.git)
 
 
-#Structuring planet data
+#STRUCTURING PLANET DATA
+- Hosted project: (https://evaloper.github.io/structuring_planet_data/)
+- Repository: (https://github.com/Evaloper/structuring_planet_data.git)
+
+# CSS - Styling the web
+
+#STYLING A BIOGRAPHY PAGE
+- Hosted project: (https://evaloper.github.io/structuring_a_biography_page/)
+- Repository: (https://github.com/Evaloper/structuring_a_biography_page.git)
+
+#CREATING A FANCY LETTERHEAD
+- Hosted project: (https://evaloper.github.io/fancy_letterhead/)
+- Repository: (https://github.com/Evaloper/fancy_letterhead.git)
+
+#COOL LOOKING BOX
+- Hosted project: (https://evaloper.github.io/cool_looking_box/)
+- Repository: (https://github.com/Evaloper/cool_looking_box.git)
