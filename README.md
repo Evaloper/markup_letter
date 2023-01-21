@@ -11,4 +11,4 @@ A sample test for DYEN Assessment
 
 # Mozilla Splash Page
 - Mozilla splash page hosted project: (https://evaloper.github.io/Mozilla_Splash_Page/)
-- Mozilla splash page repository: ()
+- Mozilla splash page repository: (https://github.com/Evaloper/Mozilla_Splash_Page.git)
