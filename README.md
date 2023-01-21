@@ -10,5 +10,5 @@ A sample test for DYEN Assessment
 - Structuring a page of content repository: (https://github.com/Evaloper/assets.git)
 
 # Mozilla Splash Page
-- [Mozilla splash page hosted project]: ()
+- [Mozilla splash page hosted project]: (https://evaloper.github.io/Mozilla_Splash_Page/)
 -Mozilla splash page repository: ()
