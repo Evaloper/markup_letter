@@ -25,6 +25,10 @@
 - Hosted project: (https://evaloper.github.io/structuring_a_biography_page/)
 - Repository: (https://github.com/Evaloper/structuring_a_biography_page.git)
 
+#FUNDAMENTAL CSS COMPREHENSION
+- Hosted project: (https://evaloper.github.io/fundatmental_css_comprehension/)
+- Repository: (https://github.com/Evaloper/fundatmental_css_comprehension.git)
+
 #CREATING A FANCY LETTERHEAD
 - Hosted project: (https://evaloper.github.io/fancy_letterhead/)
 - Repository: (https://github.com/Evaloper/fancy_letterhead.git)
@@ -36,10 +40,6 @@
 #TYPESETTING A COMMUNITY HOMEPAGE
 - Hosted project: (https://evaloper.github.io/typesetting_a_homepage/)
 - Repository: (https://github.com/Evaloper/typesetting_a_homepage.git)
-
-#FUNDAMENTAL CSS COMPREHENSION
-- Hosted project: (https://evaloper.github.io/fundatmental_css_comprehension/)
-- Repository: (https://github.com/Evaloper/fundatmental_css_comprehension.git)
 
 ## JavaScript - Dynamic Client Side Scripting
 
