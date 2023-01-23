@@ -41,6 +41,10 @@
 - Hosted project: (https://evaloper.github.io/typesetting_a_homepage/)
 - Repository: (https://github.com/Evaloper/typesetting_a_homepage.git)
 
+#FUNDAMENTAL LAYOUT COMPREHENSION
+- Hosted project: (https://evaloper.github.io/fundamental-layout/)
+- Repository: (https://github.com/Evaloper/fundamental-layout.git)
+
 ## JavaScript - Dynamic Client Side Scripting
 
 #SILLY STORY GENERATOR
