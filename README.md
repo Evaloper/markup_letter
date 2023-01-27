@@ -50,3 +50,8 @@
 #SILLY STORY GENERATOR
 - Hosted project: (https://evaloper.github.io/silly_story_generator/)
 - Repository: (https://github.com/Evaloper/silly_story_generator.git)
+
+
+#GALLERY START
+- Hosted project: (https://evaloper.github.io/gallery-start/)
+- Repository: (https://github.com/Evaloper/gallery-start.git)
