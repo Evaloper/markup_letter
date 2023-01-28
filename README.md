@@ -6,7 +6,7 @@
 - Hosted project: [Click here](https://evaloper.github.io/markup_letter/)
 - Marking up a letter assessment repository: [Click here](https://github.com/Evaloper/markup_letter.git)
 
-#### TRUCURING A PAGE OF CONTENT
+### STRUCURING A PAGE OF CONTENT
 - Hosted project: [Click here](https://evaloper.github.io/assets/)
 - Repository: [Click here](https://github.com/Evaloper/assets.git)
 
