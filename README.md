@@ -2,7 +2,7 @@
 
 # HTML-Structuring the web
 
-#MARKING UP A LETTER
+### MARKING UP A LETTER
 - Hosted project: [Click here](https://evaloper.github.io/markup_letter/)
 - Marking up a letter assessment repository: [Click here](https://github.com/Evaloper/markup_letter.git)
 
