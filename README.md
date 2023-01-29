@@ -51,6 +51,10 @@
 - Hosted project: [Click here](https://evaloper.github.io/silly_story_generator/)
 - Repository: [Click here](https://github.com/Evaloper/silly_story_generator.git)
 
+### BOUNCING BALL
+- Hosted project: [CLick here](https://evaloper.github.io/bouncing_ball_demo/)
+- Repository: [Clivk here](https://github.com/Evaloper/bouncing_ball_demo.git)
+
 
 ### GALLERY START
 - Hosted project: [Click here](https://evaloper.github.io/gallery-start/)
